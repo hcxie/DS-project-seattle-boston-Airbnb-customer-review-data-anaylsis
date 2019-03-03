@@ -1,5 +1,7 @@
+# Table of Contents
 <!-- MDTOC maxdepth:6 firsth1:1 numbering:0 flatten:0 bullets:1 updateOnSave:1 -->
 
+- [Table of Contents](#table-of-contents)   
 - [Installation](#installation)   
 - [Project Motivation](#project-motivation)   
 - [File descriptions](#file-descriptions)   
