@@ -31,6 +31,8 @@ and exam whether there is a regional difference.
   ,property type, amenitites and cancellation policy.
 3. Since the data contains customer reiews. I am interesting the most frequency
  words that appear in reviews for high rating host and low rating host.
+ 
+ Blog post of this project: https://medium.com/@jbdx6307/airbnb-seattle-boston-data-analysis-how-to-become-a-competitive-airbnb-host-9640fb296f51?source=friends_link&sk=dfa724b208f575cbd43f9d22e0c99897
 
 # File descriptions
 Folder"seattle", "boston" contains the raw data downloaded from kaggle
