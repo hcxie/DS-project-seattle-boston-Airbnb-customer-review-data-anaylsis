@@ -39,8 +39,10 @@ File Airbnb(Seattle,Boston) data analysis.ipynb contains the code for this proje
 
 # Results
 For Section 1:
+
 ![](assets/markdown-img-paste-20190313141315670.png)
 ![](assets/markdown-img-paste-20190313141341290.png)
+
 The hosts in both Seattle and Boston area have many amenities in common, including Interest, heating, Kitchen, smoke detector, essentials, dryer, washer, TV, carbon monoxide detector and kid friendly environment.
 However, many host in seatle area provide first aid kit, free parking and fire extinguisher. In contrast, many the host in Boston area have air conditioning, Hangers, laptop friendly workspace.
 It seems that safety is a core value for many seatle airbnb host. In addtion, the parking space in seattle area is much more flexible than boston area.
@@ -48,27 +50,39 @@ The boston hosts are white collar friendly. Many of them provide hanger to hang 
 One interesting I found is that many seatle hosts do not provide air conditioning. The weather in seattle is not extreme cold in winter or extreme hot in summer.
 
 Section 2:
+
 ![](assets/markdown-img-paste-20190313142240391.png)
 ![](assets/markdown-img-paste-20190313142304230.png)
+
 In the above plot, the features that have the most positive effect and most negative effect on price are listed.
 For both area, the location of host plays a important role on price. It seems that in Seattle area, the host in Downtown, Cascade, Queen Anne and Capito Hill area usually have a higher pice, while the hosts in Ballard, Seward parking, Beacon Hill, University District have a lower price.
 To verify this information, I plot the price/bed of each host on a map:
+
 ![](air-bnb-seattle.png)
+
 THe brighness of each dot represents the price/bed. This is in agreement with the modeling results.
 
 Here is the price mapping for boston area:
+
 ![](air-bnb-boston.png)
+
 This is also in agreement with the modeling results.
 
 Section 3:
 The most frequently used adjective and adverb words in reviews for high rating host :
+
 ![](assets/markdown-img-paste-20190313143050964.png)
+
 The most frequently used adjective and adverb words in reviews for low rating host :
+
 ![](assets/markdown-img-paste-20190313143120138.png)
 
 The most verb used adjective and adverb words in reviews for high rating host :
+
 ![](assets/markdown-img-paste-20190313143146471.png)
+
 The most verb used adjective and adverb words in reviews for low rating host :
+
 ![](assets/markdown-img-paste-20190313143202514.png)
 
 # Licensing, Authors, Acknowledgements
